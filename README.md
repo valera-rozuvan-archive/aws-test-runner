@@ -1,5 +1,11 @@
 # aws-test-runner
 
+## wip has moved
+
+Future work on this repository has moved to the monorepo [valera-rozuvan/howtos](https://github.com/valera-rozuvan/howtos). This repo is archived for historic purposes (to preserve commit history). Navigate over to [howtos/aws-test-runner](https://github.com/valera-rozuvan/howtos/tree/main/aws-test-runner) to see updates (if any).
+
+## introduction
+
 AWS test runner that can go on running as long as necessary
 
 ## Pre-requisites
